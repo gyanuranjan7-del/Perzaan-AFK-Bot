@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wildwoodsmp-01.aternos.me",
-    "port": ,
+    "ip": "wildwoodsmp-1.aternos.me",
+    "port": 45409,
     "version": "1.21.1"
   },
   "position": {
